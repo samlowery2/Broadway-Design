@@ -21,12 +21,28 @@ h3{
   font-weight: bold;
 }
 
+.design{
+  color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
 .header{
   text-align: center;
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   color: white;
 }
 
+p{
+  font-size: 14px;
+}
+
 .links{
   font-size: 18px
+}
+
+.foot{
+font-size: 11px;
+color: white;
+background-color: dimgray;
+text-align: left;
 }
